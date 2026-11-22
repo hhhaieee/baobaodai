@@ -1,4 +1,47 @@
 {
   "format": 1,
-  "modules": []
+  "modules": [
+    {
+      "id": "fanqe",
+      "name": "番茄影视",
+      "version": "1.0.0",
+      "description": "番茄酱影视，线路走站点自带的番茄播放接口换取直连地址",
+      "api": 1,
+      "adult": false,
+      "repo": "hhhaieee/fanqe",
+      "tag": "v1.0.0",
+      "sha256": {
+        "manifest.json": "0bc4b3506c9d12d00ec427f4c518dba4fd199a78f5ecaa6d310e950465677ff2",
+        "main.js": "65136af35ba8b4fd165d774a336a4b30c5d87a21aba3a5cc029bbacd5c3c7dd2"
+      }
+    },
+    {
+      "id": "vipmov",
+      "name": "movtor",
+      "version": "1.0.0",
+      "description": "movtor 影视，播放地址走站点自带的 m3u8 直出接口",
+      "api": 1,
+      "adult": false,
+      "repo": "hhhaieee/vipmov",
+      "tag": "v1.0.0",
+      "sha256": {
+        "manifest.json": "c8ca7ecbb575f89da76e5e3637930b21b1488198b9795ccd357f65df4281edf3",
+        "main.js": "c38e667c661d80a59f4ceb4c6d543276a2ac1c654199b29c304cecbfea5fb5f8"
+      }
+    },
+    {
+      "id": "qqys",
+      "name": "千千影视",
+      "version": "1.0.0",
+      "description": "千千影视，播放页地址经 base64 加转义编码，解码后取直连 m3u8",
+      "api": 1,
+      "adult": false,
+      "repo": "hhhaieee/qqys",
+      "tag": "v1.0.0",
+      "sha256": {
+        "manifest.json": "0a3c2d53a66d2752abce9ccb4cd4bf0881a64c9a2ddcf7053870632868afef0c",
+        "main.js": "29bc52572ba8abb14be7f37d2e2a2941f2a533142c550dfef2a20cc0c8a23023"
+      }
+    }
+  ]
 }
