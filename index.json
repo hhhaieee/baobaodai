@@ -2,6 +2,20 @@
   "format": 1,
   "modules": [
     {
+      "id": "hongguo",
+      "name": "红果",
+      "version": "1.0.13",
+      "description": "短剧 · 漫剧 · AI 剧 · 听书（含选季兜底修复）",
+      "api": 1,
+      "adult": false,
+      "repo": "hhhaieee/hongguo",
+      "tag": "v1.0.13",
+      "sha256": {
+        "manifest.json": "e494a4d754806219276a5024dbe8c57383f2c86531d6abac3b5ff4f356882c42",
+        "main.js": "f97075de8aad0f816628f0d8c1af14990c43890276a0c7fd3a6513278f2c1a67"
+      }
+    },
+    {
       "id": "fanqe",
       "name": "番茄影视",
       "version": "1.0.0",
