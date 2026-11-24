@@ -4,15 +4,15 @@
     {
       "id": "hongguo",
       "name": "红果",
-      "version": "1.0.13",
+      "version": "1.0.14",
       "description": "短剧 · 漫剧 · AI 剧 · 听书（含选季兜底修复）",
       "api": 1,
       "adult": false,
       "repo": "hhhaieee/hongguo",
-      "tag": "v1.0.13",
+      "tag": "v1.0.14",
       "sha256": {
-        "manifest.json": "e494a4d754806219276a5024dbe8c57383f2c86531d6abac3b5ff4f356882c42",
-        "main.js": "f97075de8aad0f816628f0d8c1af14990c43890276a0c7fd3a6513278f2c1a67"
+        "manifest.json": "23f61a75d8258a3b165d94d1d71e87b4ee7dd8253aae772cc95803a49c78fdf5",
+        "main.js": "e2f2f9d1fb6c7f5c430abaf744772abba13c053836e8b74afc14edede516e693"
       }
     },
     {
